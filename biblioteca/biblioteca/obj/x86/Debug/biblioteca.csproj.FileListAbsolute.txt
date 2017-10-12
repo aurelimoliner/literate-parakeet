@@ -1,0 +1,7 @@
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\obj\x86\Debug\biblioteca.Form1.resources
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\obj\x86\Debug\biblioteca.Properties.Resources.resources
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\obj\x86\Debug\biblioteca.csproj.GenerateResource.Cache
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\obj\x86\Debug\biblioteca.exe
+C:\Users\rita\Desktop\construir biblioteca csharp\biblioteca\biblioteca\obj\x86\Debug\biblioteca.pdb
